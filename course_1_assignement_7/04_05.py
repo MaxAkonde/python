@@ -7,10 +7,7 @@ for i in s:
 print(num_vowels)
 
 
-# Write your code here.
-# Écrivez un code qui comptera le nombre de voyelles dans 
-# la phrase 
-# s et attribuera le résultat à la variable num_vowels. 
-# Pour ce problème, les voyelles ne sont 
-# que a, e, i, o et u. Astuce: utilisez l' inopérateur 
-# avec vowels.
+# Write code that will count the number of vowels in 
+# the sentence s and assign the result to the variable num_vowels. 
+# For this problem, vowels are only a, e, i, o, and u. Hint: use the 
+# in operator with vowels.

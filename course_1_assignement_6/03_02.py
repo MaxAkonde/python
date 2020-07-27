@@ -5,3 +5,12 @@ for i in several_things:
 
 for i in several_things:
     print(type(i))
+
+
+# Write one for loop to print out each element of 
+# the list several_things. Then, write another for 
+# loop to print out the TYPE of each element of the 
+# list several_things. To complete this problem you 
+# should have written two different for loops, each 
+# of which iterates over the list several_things, 
+# but each of those 2 for loops should have a different result.

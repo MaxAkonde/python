@@ -8,3 +8,7 @@ num_chars = 0
 for i in rv:
     num_chars += 1
 print(num_chars)
+
+
+# Write code to assign the number of characters 
+# in the string rv to a variable num_chars.

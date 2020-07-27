@@ -8,11 +8,10 @@ for i in sentence:
 print(num_a_or_e)
     
 
-#Écrivez le code qui compte le nombre de mots sentence qui 
-# contiennent soit un « a » ou un « e ». Stockez 
-# le résultat dans la variable num_a_or_e.
-#Remarque 1: veillez à ne pas compter deux fois les 
-# mots contenant à la fois un a et un e.
-#CONSEIL 1: utilisez l' inopérateur.
-#CONSEIL 2: Vous pouvez utiliser or ou elif.
-#Les réponses codées en dur ne recevront aucun crédit.
+# Write code that counts the number of words in sentence 
+# that contain either an “a” or an “e”. Store the result in 
+# the variable num_a_or_e.
+# Note 1: be sure to not double-count words that contain both an a and an e.
+# HINT 1: Use the in operator.
+# HINT 2: You can either use or or elif.
+# Hard-coded answers will receive no credit.
